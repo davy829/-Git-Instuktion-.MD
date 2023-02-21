@@ -1,0 +1,24 @@
+git config --global user.name "John Doe"              настройка имя пользователя
+git config --global user.email johndoe@example.com    настройка мыло
+git config --list --show-origin                       показать все настройки
+git config --list                                     
+git config user.name                                  показать имя польз
+git config user.email                                 показать мыло
+
+git init                                              инициализация (создать папку гит
+git clone                                             клонировать удаленный свой реп
+git status                                 
+git log
+git log --graph                                       показ графический лог
+
+ctrl + s                                              сохранить все
+git add .                                             перед комитом добавить все файлы
+git comit -m name                                     добавить комит
+git checkout name brnch or commit                     перейти на ветку или комит
+git checkout -b newbranch                             создать ветку и прерйти на нее
+git merge                                             слить ветки с мэин
+git push                                              выгрузить реп на удаленный свой
+git pull                                              скачать реп
+git log --pretty=oneline --all --graph                показать все комиты в строку
+git branch -d                                         удалить ветку
+git checkout branch1^                                 пказать предпоследний комит в ветке бранч1
