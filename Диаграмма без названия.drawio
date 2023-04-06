@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T18:28:21.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.0.10" etag="H5D_xGm6AfB1cL7KJqUu" type="github"><diagram name="Страница 1" id="VarbCYXHipHWgRYWz5PX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-06T18:36:59.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gPYvzokz0jGmBDoTSF-i" version="21.0.10" type="github">
+  <diagram name="Страница 1" id="VarbCYXHipHWgRYWz5PX">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sdrAgho1y_ENAzTX8b6P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sdrAgho1y_ENAzTX8b6P-1" target="sdrAgho1y_ENAzTX8b6P-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sdrAgho1y_ENAzTX8b6P-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sdrAgho1y_ENAzTX8b6P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sdrAgho1y_ENAzTX8b6P-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdrAgho1y_ENAzTX8b6P-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;string massiv =&amp;nbsp;&lt;font style=&quot;&quot;&gt;[&quot;&lt;span style=&quot;font-family: Roboto; text-align: start; background-color: initial;&quot;&gt;b&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Roboto; text-align: start; background-color: initial;&quot;&gt;ubble&quot;, &quot;must&quot;, &quot;be&quot;, &quot;a&quot;, &quot;fly&quot;, &quot;forever&quot;];&lt;br&gt;length = massiv.length;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sdrAgho1y_ENAzTX8b6P-5" value="for i = 0, i &amp;lt; length; i++;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="220" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
